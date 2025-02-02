@@ -20,7 +20,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/movies-recommendation-system.git
+git clone https://github.com/siddhu00747/movies-recommendation-system.git
 cd movies-recommendation-system
 
 # Install dependencies
@@ -32,4 +32,4 @@ streamlit run app.py
 [Add your deployed app link here]
 
 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source.
